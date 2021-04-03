@@ -7,7 +7,9 @@ public class Romper : MonoBehaviour
 {
     private Vector2 mousePos;
     public Tile replace;
+    public Tile topoTile;
     public Tilemap tm;
+    public Tilemap topoTm;
     public int max;
     private int count;
 
@@ -23,11 +25,19 @@ public class Romper : MonoBehaviour
         {
             var grid = tm.GetComponentInParent<Grid>();
             var tilePos = grid.WorldToCell(mousePos);
+            var topoPos = tilePos;
+            topoPos.x--;
             if(tm.GetTile(tilePos)!=null && tm.GetTile(tilePos).name == "prd" && count < max)
             {
+                topoTm.ClearAllTiles();
                 tm.SetTile(tilePos, replace);
+                topoTm.SetTile(topoPos, topoTile);
                 count++;
-            } 
+            }
+            else if (count >= max)
+            {
+                topoTm.ClearAllTiles();
+            }
             
         }
     }
