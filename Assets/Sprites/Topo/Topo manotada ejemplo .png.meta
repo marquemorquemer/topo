@@ -1,0 +1,463 @@
+fileFormatVersion: 2
+guid: 1dadbdb7841cbbd4db0f1d984c2a2759
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5372464174109257594
+    second: Topo manotada ejemplo _0
+  - first:
+      213: 4121555201291702799
+    second: Topo manotada ejemplo _1
+  - first:
+      213: 2565523569004084105
+    second: Topo manotada ejemplo _2
+  - first:
+      213: -8378728653791753791
+    second: Topo manotada ejemplo _3
+  - first:
+      213: 491373467002689991
+    second: Topo manotada ejemplo _4
+  - first:
+      213: 4371462737367993414
+    second: Topo manotada ejemplo _5
+  - first:
+      213: -1604588688023697730
+    second: Topo manotada ejemplo _6
+  - first:
+      213: 7331086637868735418
+    second: Topo manotada ejemplo _7
+  - first:
+      213: -1790747620778963567
+    second: Topo manotada ejemplo _8
+  - first:
+      213: -4403583099244789493
+    second: Topo manotada ejemplo _9
+  - first:
+      213: 3192292553101336151
+    second: Topo manotada ejemplo _10
+  - first:
+      213: 3513839662315246795
+    second: Topo manotada ejemplo _11
+  - first:
+      213: -6127095091131565836
+    second: Topo manotada ejemplo _12
+  - first:
+      213: -2164388371210495864
+    second: Topo manotada ejemplo _13
+  - first:
+      213: 8639879917236413994
+    second: Topo manotada ejemplo _14
+  - first:
+      213: -7356201945947161554
+    second: Topo manotada ejemplo _15
+  - first:
+      213: -6368137253422022938
+    second: Topo manotada ejemplo _16
+  - first:
+      213: -6058740346642343364
+    second: Topo manotada ejemplo _17
+  - first:
+      213: -5694030748772306300
+    second: Topo manotada ejemplo _18
+  - first:
+      213: 7885524693038089561
+    second: Topo manotada ejemplo _19
+  - first:
+      213: 2291490436888599190
+    second: Topo manotada ejemplo _20
+  - first:
+      213: -3631001294134189257
+    second: Topo manotada ejemplo _21
+  - first:
+      213: 4668168779664814322
+    second: Topo manotada ejemplo _22
+  - first:
+      213: 6036216247465578760
+    second: Topo manotada ejemplo _23
+  - first:
+      213: -2893680780520587572
+    second: Topo manotada ejemplo _24
+  - first:
+      213: -4252368743241532829
+    second: Topo manotada ejemplo _25
+  - first:
+      213: 8361740483904259389
+    second: Topo manotada ejemplo _26
+  - first:
+      213: -3888233060950280992
+    second: Topo manotada ejemplo _27
+  - first:
+      213: -2881342140765972327
+    second: Topo manotada ejemplo _28
+  - first:
+      213: -8062558060241052642
+    second: Topo manotada ejemplo _29
+  - first:
+      213: -1908118315493042288
+    second: Topo manotada ejemplo _30
+  - first:
+      213: 2848460206813163198
+    second: Topo manotada ejemplo _31
+  - first:
+      213: -4755801553264410563
+    second: Topo manotada ejemplo _32
+  - first:
+      213: -5626297265492852121
+    second: Topo manotada ejemplo _33
+  - first:
+      213: 1942082332069933473
+    second: Topo manotada ejemplo _34
+  - first:
+      213: -1369204135188202754
+    second: Topo manotada ejemplo _35
+  - first:
+      213: -1592078212703035198
+    second: Topo manotada ejemplo _36
+  - first:
+      213: 4795443672539166662
+    second: Topo manotada ejemplo _37
+  - first:
+      213: 5243858189616615036
+    second: Topo manotada ejemplo _38
+  - first:
+      213: 7272322644789153880
+    second: Topo manotada ejemplo _39
+  - first:
+      213: -3821077389371224993
+    second: Topo manotada ejemplo _40
+  - first:
+      213: 2751317924227116528
+    second: Topo manotada ejemplo _41
+  - first:
+      213: 3674543855502181241
+    second: Topo manotada ejemplo _42
+  - first:
+      213: -7315630794977570484
+    second: Topo manotada ejemplo _43
+  - first:
+      213: 2552538675638390821
+    second: Topo manotada ejemplo _44
+  - first:
+      213: 7756731080158282212
+    second: Topo manotada ejemplo _45
+  - first:
+      213: -8585195850356947846
+    second: Topo manotada ejemplo _46
+  - first:
+      213: -2016630043562835580
+    second: Topo manotada ejemplo _47
+  - first:
+      213: 1668917622311107326
+    second: Topo manotada ejemplo _48
+  - first:
+      213: 2498238646326963405
+    second: Topo manotada ejemplo _49
+  - first:
+      213: -904011508932092510
+    second: Topo manotada ejemplo _50
+  - first:
+      213: -5424496722935766627
+    second: Topo manotada ejemplo _51
+  - first:
+      213: -9143364608369654817
+    second: Topo manotada ejemplo _52
+  - first:
+      213: 1201632456629610619
+    second: Topo manotada ejemplo _53
+  - first:
+      213: 7784015142082325659
+    second: Topo manotada ejemplo _54
+  - first:
+      213: -4247306062010994924
+    second: Topo manotada ejemplo _55
+  - first:
+      213: -3463382192281132923
+    second: Topo manotada ejemplo _56
+  - first:
+      213: 1918151760384204981
+    second: Topo manotada ejemplo _57
+  - first:
+      213: 209735825372645226
+    second: Topo manotada ejemplo _58
+  - first:
+      213: 8118713333816205689
+    second: Topo manotada ejemplo _59
+  - first:
+      213: 9092991469555749913
+    second: Topo manotada ejemplo _60
+  - first:
+      213: -8141860101583632201
+    second: Topo manotada ejemplo _61
+  - first:
+      213: -3283507357383297800
+    second: Topo manotada ejemplo _62
+  - first:
+      213: 8763598483806725218
+    second: Topo manotada ejemplo _63
+  - first:
+      213: -7386806834255742415
+    second: Topo manotada ejemplo _64
+  - first:
+      213: -2720520722950665288
+    second: Topo manotada ejemplo _65
+  - first:
+      213: 4621746354239031391
+    second: Topo manotada ejemplo _66
+  - first:
+      213: 2157936005551767367
+    second: Topo manotada ejemplo _67
+  - first:
+      213: -5315551330480430444
+    second: Topo manotada ejemplo _68
+  - first:
+      213: -7502896119434733759
+    second: Topo manotada ejemplo _69
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 250
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Topo manotada ejemplo _0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68094b55c4c2175b0800000000000000
+      internalID: -5372464174109257594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Topo manotada ejemplo _1
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 0
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f02d72f5e94b23930800000000000000
+      internalID: 4121555201291702799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Topo manotada ejemplo _2
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 0
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98b7161e7129a9320800000000000000
+      internalID: 2565523569004084105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Topo manotada ejemplo _3
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 0
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c90b598ea6c8bb80800000000000000
+      internalID: -8378728653791753791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Topo manotada ejemplo _4
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 0
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c95fb89095b1d600800000000000000
+      internalID: 491373467002689991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Topo manotada ejemplo _5
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 0
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64c0da9d23e8aac30800000000000000
+      internalID: 4371462737367993414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Topo manotada ejemplo _6
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 0
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb6ccb7f61b5bb9e0800000000000000
+      internalID: -1604588688023697730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
