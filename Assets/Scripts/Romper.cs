@@ -7,11 +7,11 @@ public class Romper : MonoBehaviour
 {
     private Vector2 mousePos;
     public Tile replace;
-    public GameObject topo;
+    public Tile topoTile;
     public Tilemap tm;
+    public Tilemap topoTm;
     public int max;
     private int count;
-    private GameObject prefabTopo;
 
     public void Start()
     {
@@ -25,15 +25,18 @@ public class Romper : MonoBehaviour
         {
             var grid = tm.GetComponentInParent<Grid>();
             var tilePos = grid.WorldToCell(mousePos);
+            var topoPos = tilePos;
+            topoPos.x--;
             if(tm.GetTile(tilePos)!=null && tm.GetTile(tilePos).name == "prd" && count < max)
             {
-                prefabTopo = Instantiate(topo, new Vector3 (tilePos.x + 1, tilePos.y + 0.5f, -1), Quaternion.identity);
-                Destroy(prefabTopo, 1);
+                topoTm.ClearAllTiles();
                 tm.SetTile(tilePos, replace);
+                topoTm.SetTile(topoPos, topoTile);
                 count++;
             }
             else if (count >= max)
             {
+                topoTm.ClearAllTiles();
             }
             
         }
