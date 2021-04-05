@@ -25,7 +25,7 @@ public class Romper : MonoBehaviour
         {
             var grid = tm.GetComponentInParent<Grid>();
             var tilePos = grid.WorldToCell(mousePos);
-            if(tm.GetTile(tilePos)!=null && tm.GetTile(tilePos).name == "prd" && count < max)
+            if(tm.GetTile(tilePos)!=null && tm.GetTile(tilePos).name.Substring(0,5) == "tierra" && count < max)
             {
                 prefabTopo = Instantiate(topo, new Vector3 (tilePos.x + 1, tilePos.y + 0.5f, -1), Quaternion.identity);
                 Destroy(prefabTopo, 1);
