@@ -2062,7 +2062,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 57743f0455b650e4da8726063c069b38, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  replace: {fileID: 0}
+  replace: {fileID: 11400000, guid: 6caf4a3a4c09f304598fe5912d9c5453, type: 2}
   topo: {fileID: 5021993206290194312, guid: 4d050a02fdb24314ead36f329b38474b, type: 3}
   tm: {fileID: 1191959878}
   max: 4
